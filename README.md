@@ -1103,5 +1103,3 @@ RESTful request `GET /` with a random word drawn randomly from
 `/usr/share/dict/words`. 
 
 
-
-hello
